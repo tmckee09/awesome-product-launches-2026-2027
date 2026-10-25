@@ -35,7 +35,7 @@
 > Discover products featured through verified, paid Crowdstax launch packages.
 
 <!-- crowdstax-launches:start -->
-_No products published yet._
+_No featured products published yet._
 <!-- crowdstax-launches:end -->
 
 ---
