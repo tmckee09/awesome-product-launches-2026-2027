@@ -82,7 +82,7 @@ _No products published yet._
 
 > Know a useful product, builder resource, or category that belongs here?
 
-Open an [issue](https://github.com/tmckee09/awesome-product-launches-2026-2027/issues) or [pull request](https://github.com/tmckee09/awesome-product-launches-2026-2027/pulls). Explain what the product does and include its website. Crowdstax package entries are maintained automatically; please keep their HTML markers intact.
+Open an [issue](https://github.com/tmckee09/awesome-product-launches-2026-2027/issues) or [pull request](https://github.com/tmckee09/awesome-product-launches-2026-2027/pulls). Explain what the product does and include its website. Crowdstax package entries are maintained automatically after verified checkout; please keep their HTML markers intact.
 
 ## 📄 License
 
