@@ -35,6 +35,10 @@
 > Discover products featured through verified, paid Crowdstax launch packages.
 
 <!-- crowdstax-launches:start -->
+<!-- crowdstax-product:4d754abb-7d79-4434-81f5-df487f9f1060:start -->
+- [Rosie](https://andrebentorj.github.io/rosie-nl2sql) – Ask your database in plain language, and see what was checked in the answer, and what was not. Self\-hosted text\-to\-SQL for MySQL, PostgreSQL and SQL Server.
+<!-- crowdstax-product:4d754abb-7d79-4434-81f5-df487f9f1060:end -->
+
 <!-- crowdstax-product:8c375f81-434b-4b28-b374-fa4ba93642ee:start -->
 - [Fluxo Flow](https://getflow.fluxosuite.com/) – Visual AI workflow automation on your own AI key, with no markup. Test every flow with Dry Run, add human approvals, and pay flat, never per task. Free plan, no credit card.
 <!-- crowdstax-product:8c375f81-434b-4b28-b374-fa4ba93642ee:end -->
