@@ -35,7 +35,9 @@
 > Discover products featured through verified, paid Crowdstax launch packages.
 
 <!-- crowdstax-launches:start -->
-_No featured products published yet._
+<!-- crowdstax-product:8c375f81-434b-4b28-b374-fa4ba93642ee:start -->
+- [Fluxo Flow](https://getflow.fluxosuite.com/) – Visual AI workflow automation on your own AI key, with no markup. Test every flow with Dry Run, add human approvals, and pay flat, never per task. Free plan, no credit card.
+<!-- crowdstax-product:8c375f81-434b-4b28-b374-fa4ba93642ee:end -->
 <!-- crowdstax-launches:end -->
 
 ---
